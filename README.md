@@ -5,4 +5,4 @@ Git and Github tutorial
 Learning Git for the codefusion hackathon
 
 ## Subheader
-watching yt tutorial
+Watching yt tutorial
